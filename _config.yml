@@ -34,7 +34,7 @@ social_media:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  linkedin: florencia-spina-439835176
+  linkedin: florsp
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
@@ -57,9 +57,9 @@ topics:
     web_url: https://github.com/topics/bootstrap
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png
     
-  - name: Angular 7
-    web_url: https://github.com/topics/angular
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png
+  - name: React
+    web_url: https://github.com/topics/react
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
   
   - name: PWA
     web_url: https://github.com/topics/pwa
